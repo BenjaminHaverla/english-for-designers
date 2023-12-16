@@ -1,6 +1,6 @@
-# English-for-designers (Winter Semmester)
+# English-for-designers (Winter Semester)
 
 - Benjamín Haverla
-- - The Story of My Work
+  - The Story of My Work
   - Writing My Story
   - The Story About Me
