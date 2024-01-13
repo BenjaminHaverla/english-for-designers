@@ -1,5 +1,7 @@
 # English-for-designers (Winter Semester)
 
+![](Images/IMG09612.jpg)
+
 - [Benjamín Haverla](https://github.com/BenjaminHaverla/First-impression.git)
   - [My Work](https://github.com/BenjaminHaverla/My-Work.git)
   - [Writing](https://github.com/BenjaminHaverla/English-essay-workflow.git)
